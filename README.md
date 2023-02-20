@@ -1,3 +1,5 @@
+[![Demostration of Using CI with GitHub Actions, Ant and JUnit | © 2020 by hoangdapoet](https://github.com/hoangdapoet/mathutil-ant/actions/workflows/mathutil-ant-ci.yml/badge.svg)](https://github.com/hoangdapoet/mathutil-ant/actions/workflows/mathutil-ant-ci.yml)
+
 # Welcome to Math-Utility Repository
 
 
@@ -14,5 +16,3 @@ build tool
 ![Source code with JUnit](https://github.com/hoangdapoet/mathutil-ant/blob/main/src/screenshots/source_code_with_junit.png)
 
 ### Connect me via huynhnhatthienhoang2002@gmail.com
-
-[![Demostration of Using CI with GitHub Actions, Ant and JUnit | © 2020 by hoangdapoet](https://github.com/hoangdapoet/mathutil-ant/actions/workflows/mathutil-ant-ci.yml/badge.svg)](https://github.com/hoangdapoet/mathutil-ant/actions/workflows/mathutil-ant-ci.yml)
