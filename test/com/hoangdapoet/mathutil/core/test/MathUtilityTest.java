@@ -1,18 +1,9 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package com.khanhlh.mathutil.core.test;
+package com.hoangdapoet.mathutil.core.test;
 
-import com.khanhlh.mathutil.core.MathUtility;
+import com.hoangdapoet.mathutil.core.MathUtility;
 import org.junit.Assert;
 import org.junit.Test;
 
-/**
- *
- * @author ADMIN
- */
 public class MathUtilityTest {
     
     //Kiểm thử ngoại lệ thì sao???

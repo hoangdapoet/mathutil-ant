@@ -1,19 +1,11 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/UnitTests/JUnit4TestClass.java to edit this template
- */
-package com.khanhlh.mathutil.core.test;
+package com.hoangdapoet.mathutil.core.test;
 
-import com.khanhlh.mathutil.core.MathUtility;
+import com.hoangdapoet.mathutil.core.MathUtility;
 import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
 
-/**
- *
- * @author huynh
- */
 @RunWith(value = Parameterized.class)
 //báo với JUnit rằng code trong class này tao sẽ tách data và
 //hàm so sánh riêng biệt nhau -DATA DRIVEN TESTING
